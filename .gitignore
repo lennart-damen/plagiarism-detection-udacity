@@ -112,4 +112,4 @@ target/
 # pytest cache
 /.pytest_cache
 
-/__MACOSX
+__MACOSX/
